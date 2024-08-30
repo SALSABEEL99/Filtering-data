@@ -1,0 +1,14 @@
+.head{
+  text-align: center;
+ background-color: rgb(81, 97, 167);
+ color: white;
+}
+
+input{
+  margin-bottom: 20px;
+  width: 30%;
+}
+.product{
+  background-color: rgb(85, 128, 163);
+}
+
